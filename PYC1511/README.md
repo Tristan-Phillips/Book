@@ -1,5 +1,5 @@
 ---
-description: PYC1511
+description: Introduction to Psychology
 ---
 
 # PYC1511 - Landing Page
