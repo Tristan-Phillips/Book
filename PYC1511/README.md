@@ -164,14 +164,20 @@ Basic psychology includes:
 6. Cross-cultural psychology,
    1. Cross-cultural psychology refers to the scientific study of human behavior and mental processes under diverse cultural conditions
 7. Developmental psychology,&#x20;
+   1. Developmental psychology is concerned with studying humans throughout the various life stages. It explores physical, emotional and social development to give a complete picture of human development through the entire lifespan (APA, 2015)
 8. Evolutionary psychology,&#x20;
+   1. Evolutionary psychology explains traits and processes such as memory, perception and language in terms of humans having to adapt to an evolving environment.
 9. Experimental psychology,
+   1. Experimental psychology represents a methodological approach to psychology and refers to the use of experiments to understand human and animal participants’ sensation, perception, memory, cognition, learning, motivation, emotion and developmental processes, as well as social issues.
 10. Neuropsychology,&#x20;
+    1. Neuropsychology involves the study of the structure and the functions of the brain in relation to specific psychological processes and overt behaviors (Gluck, Mercado & Meyers, 2016).
 11. Personality psychology,&#x20;
+    1. Personality psychology as a field investigates characteristics that all people have that shape their thoughts, feelings and behavior (Young, 2020). <mark style="color:red;">The Big 5 personality model is often used to describe individual differences in people</mark>.
 12. Positive psychology,&#x20;
 13. Psycho-dynamic psychology,&#x20;
 14. Quantitative psychology,
 15. Social psychology.
+    1. Social psychology studies social behavior and mental processes that pertain to social behavior. It is concerned with how humans think about and relate to one another. Social psychologists study topics such as conformity, the effect of persuasion on human behavior, beliefs, attitudes and stereotypes.
 
 There are mainly three historical phases of development, namely:
 
@@ -275,3 +281,57 @@ Researchers such as Paul Eckman (born in 1934) examined facial expressions or em
 
 </details>
 
+### Ekman's 6 basic emotions
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Universal facial expressions</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/281b5cefbc2f4a7fa60657525989cb64.jpg" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### Summary
+
+Paul Ekman, a renowned psychologist, identified six basic emotions that he suggested were universally experienced in all human cultures. Here are Ekman's six basic emotions:
+
+1. Happiness: This is generally expressed through laughter, smiles, and uplifting body language. It's associated with joy, satisfaction, contentment, and pleasure.
+2. Sadness: This emotion is often shown through quietness, low energy, and downcast body language. It's associated with feelings of loss, helplessness, disappointment, or sorrow.
+3. Fear: This emotion triggers a 'fight or flight' response and is typically associated with a perceived threat or danger. It can be expressed through widened eyes, increased heartbeat, and body tension.
+4. Disgust: This emotion is a response to something unpleasant or offensive, such as a bad smell, taste, or a morally reprehensible act. It's often expressed through a wrinkled nose, closed eyes, and an open mouth.
+5. Anger: This emotion is a response to frustration, threat, or injustice. It can be expressed through furrowed eyebrows, a grimacing face, and aggressive body language.
+6. Surprise: This is a brief emotion often elicited by an unexpected event. It's usually expressed through raised eyebrows, wide eyes, and an open mouth.
+
+These emotions are considered 'basic' because they are thought to be innate, not learned, and are experienced universally across cultures.
+
+***
+
+<details>
+
+<summary>Developmental psychology started</summary>
+
+Developmental psychology as a discipline started as a philosophical field with John Locke (1632– 1704) and Jean-Jacques Rousseau (1712–1778).&#x20;
+
+Locke stated that a child is a tabula rasa, or a blank slate, on which experience writes. Rousseau was the first to argue that a child grows in stages.&#x20;
+
+Baby biographies, that is, descriptive accounts of children’s development were first created in 1787 by German philosopher Dietrich Tiedemann (1748–1803).&#x20;
+
+A century later, German biologist Wilhelm Preyer (1841– 1897) documented the first four years of his son’s life and published Die seele des kindes (The mind of the child) in <mark style="color:green;">1882</mark>.
+
+</details>
+
+**Evolutionary psychology**: Historically, Charles Darwin’s (1809–1882) theory of natural selection provides the basis for an understanding of evolution.
+
+#### Experimental psychology
+
+Wilhelm Wundt (1832–1920) founded the first laboratory for experimental psychology in Leipzig, Germany.&#x20;
+
+Charles Bell (1774–1842), a British physiologist, did research on the nervous system and Ernst Heinrich Weber (1795–1878), a German physicist, suggested that judgements of sensory differences are relative, not absolute.&#x20;
+
+This led to **Weber’s law**, which is considered the **first quantitative law in the history of psychology**.
+
+#### Neuropsychology
+
+The first textbook on neuropsychology, <mark style="color:red;">Fundamentals of human neuropsychology</mark>, was published by Kolb and Whishaw (Finger, 2000).&#x20;
+
+Although this is a recent textbook, the history of the field can be traced back to the third dynasty of ancient Egypt. Imhotep, an Egyptian priest, first wrote about a scientific approach to medicine and disease and described the brain, trauma, abnormalities and remedies (Finger, 2000).&#x20;
+
+As the field of medicine developed its understanding of human anatomy and physiology, different theories developed to understand why the body functions the way it does
