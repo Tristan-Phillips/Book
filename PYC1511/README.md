@@ -69,7 +69,7 @@ What are the consequences of developing a limited scope of studying psychology?
 
 Three significant events occurred in the 19th century that influenced the rise of psychology in Egypt (Ahmed, 1992)
 
-1. The Al-Abssia Mental Health Hospital, the first mental hospital for Africa and the Arab world, was opened in Cairo in 1880.
+1. The Al-Abssia Mental Health Hospital, the first mental hospital for Africa and the Arab world, was opened in Cairo in <mark style="color:green;">1880</mark>.
 2. The newspapers and magazines distributed to the public paved the way for psychology in Egypt. These newspapers and magazines were established in Cairo and Alexandria, primarily by a group of immigrant Lebanese and Syrian journalists _(Ahmed, 2005)_.
 3. Egypt started to expand its schooling system by establishing schools all over the country, including teachers’ schools, whose curriculum included some basic psychology training.
 
@@ -82,4 +82,56 @@ Sheikh Mohammed Sherif Saliem wrote and published books, including psychology bo
 </details>
 
 #### Psychology in South Africa
+
+In South Africa, it became perverted to fulfill a political purpose. As Marx (2013) notes, it was believed that the Bantu were not simply less developed than Europeans; rather, the belief was that their culture differed fundamentally from European culture and was incompatible with it.
+
+<details>
+
+<summary>University of Cape Town is established</summary>
+
+Higher education in South Africa can be traced back to <mark style="color:green;">1829</mark>, when the South African College (later the University of Cape Town) was established in Cape Town (Cooper & Nicholas, 2012). This college prepared students for matriculation and examinations at the University of London.
+
+</details>
+
+<details>
+
+<summary>University of Good Hope</summary>
+
+In <mark style="color:green;">1873</mark>, the University of Good Hope was established as an examining body for degrees conferred in South Africa
+
+</details>
+
+<details>
+
+<summary>University Act of South Africa</summary>
+
+In 1916, the University Act of South Africa launched the University of South Africa, the University of Stellenbosch and the South African Native College (later the University Fort Hare).
+
+</details>
+
+Psychology was taught in philosophy departments until <mark style="color:green;">1917</mark>
+
+RW Wilcocks (1892– 1967) was appointed as Professor of Logic and Psychology at the University of Stellenbosch after he had received his doctorate in the analysis of productive thought at the University of Berlin in <mark style="color:green;">1917</mark>
+
+He established the first experimental psychology laboratory modeled on Wundt’s laboratory at the University of Stellenbosch (Louw & Foster, 1991).
+
+<details>
+
+<summary>First black ...</summary>
+
+Chabani N Manganyi became the first black psychologist in <mark style="color:green;">1965</mark> and established the Department of Psychology at the University of Transkei in <mark style="color:green;">1976</mark> (now Walter Sisulu University).&#x20;
+
+Josephine Naidoo was the first black person to apply for South African Psychological Association membership.&#x20;
+
+Sathasivan Cooper, who frequently met with political activists, such as Steve Biko, Harry Nengwekhulu and Strini Moodley, helped to establish the Black Consciousness philosophy and was instrumental in the formation of the student’s representative council (SRC) at the University College. His political ideologies later led to his suspension from university in <mark style="color:green;">1969</mark>. He steered the merger with the University of Natal to form what is now known as the University of KwaZulu-Natal.
+
+</details>
+
+#### Psychology in Zambia
+
+In a study of reasoning in specific non- language-based school examination tasks, it was discovered that poor performance in the tasks was related to socioeconomic background and thus to familiarity with and acquired skills in dealing with the information presented as pictures (Okonji, 1971). This meant that psychology and its methodological applications had to be redefined to fit the context.
+
+From this section, one gathers that the “how” and the “where” that inform the definition of psychology are crucial to how the study of psychology becomes an extension of oppressive political systems like colonization, apartheid and imperialism.
+
+
 
