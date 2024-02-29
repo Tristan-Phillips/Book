@@ -155,47 +155,47 @@ Basic psychology includes:
    1. **Abnormal psychology** is a branch of psychology that studies unusual patterns of behavior, emotion and thought considered to be maladaptive and disruptive to an individual’s life.
    2. **Psychopathology**, which is similar to abnormal psychology, refers to **the study of mental illness**, mainly by psychologists and psychiatrists to reach a medical understanding of the disease process
 2. Behaviorism,&#x20;
-   1. According to behaviorism, all things that organisms do – including acting, thinking and feeling – can and should be regarded as behavior and psychological disorders are best treated by altering behavior patterns or modifying the environment.
+   1. According to **behaviorism**, all things that organisms do – including acting, thinking and feeling – can and should be regarded as behavior and psychological disorders are best treated by altering behavior patterns or modifying the environment.
 3. Biological psychology,&#x20;
-   1. Biological psychology, or bio-psychology, specializes in the mind–body connection, especially how the nervous system affects behavior (Britannica, 2020).
+   1. **Biological psychology**, or bio-psychology, specializes in the mind–body connection, especially how the nervous system affects behavior (Britannica, 2020).
 4. Cognitive psychology,&#x20;
-   1. Cognitive psychology involves the study of cognition, including mental processes underlying perception, learning, problem-solving, reasoning, thinking, memory, attention, language and emotions.
+   1. **Cognitive psychology** involves the study of cognition, including mental processes underlying perception, learning, problem-solving, reasoning, thinking, memory, attention, language and emotions.
 5. Comparative psychology,&#x20;
 6. Cross-cultural psychology,
-   1. Cross-cultural psychology refers to the scientific study of human behavior and mental processes under diverse cultural conditions
+   1. **Cross-cultural psychology** refers to the scientific study of human behavior and mental processes under diverse cultural conditions
 7. Developmental psychology,&#x20;
-   1. Developmental psychology is concerned with studying humans throughout the various life stages. It explores physical, emotional and social development to give a complete picture of human development through the entire lifespan (APA, 2015)
+   1. **Developmental psychology** is concerned with studying humans throughout the various life stages. It explores physical, emotional and social development to give a complete picture of human development through the entire lifespan (APA, 2015)
 8. Evolutionary psychology,&#x20;
-   1. Evolutionary psychology explains traits and processes such as memory, perception and language in terms of humans having to adapt to an evolving environment.
+   1. **Evolutionary psychology** explains traits and processes such as memory, perception and language in terms of humans having to adapt to an evolving environment.
 9. Experimental psychology,
-   1. Experimental psychology represents a methodological approach to psychology and refers to the use of experiments to understand human and animal participants’ sensation, perception, memory, cognition, learning, motivation, emotion and developmental processes, as well as social issues.
+   1. **Experimental psychology** represents a methodological approach to psychology and refers to the use of experiments to understand human and animal participants’ sensation, perception, memory, cognition, learning, motivation, emotion and developmental processes, as well as social issues.
 10. Neuropsychology,&#x20;
-    1. Neuropsychology involves the study of the structure and the functions of the brain in relation to specific psychological processes and overt behaviors (Gluck, Mercado & Meyers, 2016).
+    1. **Neuropsychology** involves the study of the structure and the functions of the brain in relation to specific psychological processes and overt behaviors (Gluck, Mercado & Meyers, 2016).
 11. Personality psychology,&#x20;
-    1. Personality psychology as a field investigates characteristics that all people have that shape their thoughts, feelings and behavior (Young, 2020). <mark style="color:red;">The Big 5 personality model is often used to describe individual differences in people</mark>.
+    1. **Personality psychology** as a field investigates characteristics that all people have that shape their thoughts, feelings and behavior (Young, 2020). <mark style="color:red;">The Big 5 personality model is often used to describe individual differences in people</mark>.
 12. Positive psychology,&#x20;
 13. Psycho-dynamic psychology,&#x20;
 14. Quantitative psychology,
 15. Social psychology.
-    1. Social psychology studies social behavior and mental processes that pertain to social behavior. It is concerned with how humans think about and relate to one another. Social psychologists study topics such as conformity, the effect of persuasion on human behavior, beliefs, attitudes and stereotypes.
+    1. **Social psychology** studies social behavior and mental processes that pertain to social behavior. It is concerned with how humans think about and relate to one another. Social psychologists study topics such as conformity, the effect of persuasion on human behavior, beliefs, attitudes and stereotypes.
 
-There are mainly three historical phases of development, namely:
+There are mainly **three historical phases of development, namely**:
 
-1. Demonology (i.e., caused by evil forces)
+1. **Demonology** (i.e., caused by evil forces)
    1. Demonology is the theory that **the devil** or another evil entity can reside inside a person and exert a mental influence over that person.
    2. In the fifth century BC, **Hippocrates** _(460–377)_ rejected the Greek belief that the gods sent serious physical diseases and mental disturbances as punishment. He believed that illnesses were caused naturally.
-2. Somatogenesis (i.e., bodily causes)
+2. **Somatogenesis** (i.e., bodily causes)
    1. States that something wrong with the soma, or the physical body, disturbs thoughts and actions.
-3. Psychogenesis (i.e., psychological or mental causes).
+3. **Psychogenesis** (i.e., psychological or mental causes).
 
-Hippocrates classified mental disorders into:
+**Hippocrates classified mental disorders into**:
 
 1. Mania
 2. Melancholia
 3. Phrenitis
 4. Brain fever
 
-He believed that normal brain functioning, also known as mental health, depended on a delicate balance of four main fluids in the body:
+He believed that normal brain functioning, also known as mental health, depended on a delicate balance of **four main fluids in the body**:
 
 1. Blood
 2. Black bile
@@ -244,9 +244,9 @@ Dogs would salivate on seeing their keepers or even hearing their keepers’ foo
 
 </details>
 
-In 1913, John Broadus Watson (1878–1958) wrote an article, “Psychology through the eyes of a behaviorist”, in which he stated that the science of psychology deals with observable behaviors and not phenomena such as conscience or thought.
+In <mark style="color:green;">1913</mark>, John Broadus Watson (1878–1958) wrote an article, “<mark style="color:red;">Psychology through the eyes of a behaviorist</mark>”, in which he stated that the science of psychology deals with observable behaviors and not phenomena such as conscience or thought.
 
-It was only after Watson’s article that behaviorism was delineated into three phases:
+It was only after Watson’s article that **behaviorism was delineated into three phases**:
 
 1. The first phase, namely, Watson’s behaviorism lasted until 1930.
 2. The second phase, namely, new-behaviorism comprised studies by Edward Tolman, Edwin Guthrie, Clark Hull and BF Skinner and lasted until the 1960s. In this phase, behaviorists claimed that
@@ -256,11 +256,11 @@ It was only after Watson’s article that behaviorism was delineated into three 
 
 The third phase, called new-new behaviorism or social behaviorism, included cognitive elements. This phase was pioneered by Bandura and Rotter. Canadian-American psychologist Albert Bandura (1925–2021) first named his theory social behaviorism and then renamed it social cognitive theory.
 
-There are two general kinds of behaviorists, namely:
+There are **two general kinds of behaviorists,** namely:
 
-1. Radical (Watson and Skinner)
+1. **Radical** (Watson and Skinner)
    1. Radical behaviorists believe that psychology should study observable behaviors and environmental processes
-2. Methodological (Bandura and Rotter)
+2. **Methodological** (Bandura and Rotter)
    1. Methodological behaviorists believe that cognitive processes should be included when studying methods of behavior.
 
 <details>
@@ -291,14 +291,14 @@ Researchers such as Paul Eckman (born in 1934) examined facial expressions or em
 
 #### Summary
 
-Paul Ekman, a renowned psychologist, identified six basic emotions that he suggested were universally experienced in all human cultures. Here are Ekman's six basic emotions:
+Paul Ekman, a renowned psychologist, identified six basic emotions that he suggested were universally experienced in all human cultures. **Here are Ekman's six basic emotions**:
 
-1. Happiness: This is generally expressed through laughter, smiles, and uplifting body language. It's associated with joy, satisfaction, contentment, and pleasure.
-2. Sadness: This emotion is often shown through quietness, low energy, and downcast body language. It's associated with feelings of loss, helplessness, disappointment, or sorrow.
-3. Fear: This emotion triggers a 'fight or flight' response and is typically associated with a perceived threat or danger. It can be expressed through widened eyes, increased heartbeat, and body tension.
-4. Disgust: This emotion is a response to something unpleasant or offensive, such as a bad smell, taste, or a morally reprehensible act. It's often expressed through a wrinkled nose, closed eyes, and an open mouth.
-5. Anger: This emotion is a response to frustration, threat, or injustice. It can be expressed through furrowed eyebrows, a grimacing face, and aggressive body language.
-6. Surprise: This is a brief emotion often elicited by an unexpected event. It's usually expressed through raised eyebrows, wide eyes, and an open mouth.
+1. **Happiness**: This is generally expressed through laughter, smiles, and uplifting body language. It's associated with joy, satisfaction, contentment, and pleasure.
+2. **Sadness**: This emotion is often shown through quietness, low energy, and downcast body language. It's associated with feelings of loss, helplessness, disappointment, or sorrow.
+3. **Fear**: This emotion triggers a 'fight or flight' response and is typically associated with a perceived threat or danger. It can be expressed through widened eyes, increased heartbeat, and body tension.
+4. **Disgust**: This emotion is a response to something unpleasant or offensive, such as a bad smell, taste, or a morally reprehensible act. It's often expressed through a wrinkled nose, closed eyes, and an open mouth.
+5. **Anger**: This emotion is a response to frustration, threat, or injustice. It can be expressed through furrowed eyebrows, a grimacing face, and aggressive body language.
+6. **Surprise**: This is a brief emotion often elicited by an unexpected event. It's usually expressed through raised eyebrows, wide eyes, and an open mouth.
 
 These emotions are considered 'basic' because they are thought to be innate, not learned, and are experienced universally across cultures.
 
@@ -342,29 +342,53 @@ The basic psychological methods are used in applied psychology to solve issues o
 
 Hugo Münsterberg (1863–1916), a German-American psychologist, pioneered applied psychology, extending his research and theories to industrial/organizational, legal, medical, clinical, educational and business contexts (Hergenhahn, 2005).
 
-Types of applied psychology include:
+**Types of applied psychology include**:
 
-1. Clinical psychology,&#x20;
-2. Community psychology,&#x20;
-3. Consumer psychology,&#x20;
-4. Counseling,
-5. Critical psychology,&#x20;
-6. Educational psychology,&#x20;
-7. Environmental psychology,&#x20;
-8. Ergonomics,&#x20;
-9. Food psychology,&#x20;
-10. Forensic psychology,&#x20;
-11. Health psychology,&#x20;
-12. Humanistic psychology,&#x20;
-13. Industrial/organizational psychology,&#x20;
-14. Legal psychology,&#x20;
-15. Medical psychology,&#x20;
-16. Military psychology,
-17. Psychology of music,&#x20;
-18. Occupational health,&#x20;
-19. Political psychology,&#x20;
-20. Psychometric,&#x20;
-21. Psychology of religion,&#x20;
-22. School psychology,&#x20;
-23. Sport psychology
-24. Traffic psychology
+1. **Clinical psychology**,&#x20;
+   1. A branch of psychology focused on the diagnosis and treatment of mental disorders and psychological distress.
+2. **Community psychology**,&#x20;
+   1. A field within psychology that examines how individuals relate to their communities and the reciprocal effect of communities on individuals.
+3. **Consumer psychology**,&#x20;
+   1. The study of why people buy goods and services, focusing on their thoughts, feelings, perceptions, and behaviors
+4. **Counseling**,
+   1. A professional guidance of the individual by utilizing psychological methods, especially in collecting case history data, using various techniques of the personal interview, and testing interests and aptitudes
+5. **Critical psychology**,&#x20;
+   1. An approach to psychology that challenges mainstream psychology and attempts to apply psychological understandings in more progressive ways
+6. **Educational psychology**,&#x20;
+   1. The study of how people learn in educational settings, the effectiveness of educational interventions, and the psychology of teaching
+7. **Environmental psychology**,&#x20;
+   1. A field of psychology that examines the relationship between people and their physical environment
+8. **Ergonomics,**&#x20;
+   1. The scientific study of people and their working conditions, especially done to improve effectiveness
+9. **Food psychology**,&#x20;
+   1. The study of the mental and emotional relationship between people and food
+10. **Forensic psychology**,&#x20;
+    1. The intersection between psychology and the justice system, involving understanding fundamental legal principles and providing expert psychological opinions
+11. **Health psychology**,&#x20;
+    1. The study of how biological, social, and psychological factors influence health and illness
+12. **Humanistic psychology**,&#x20;
+    1. A perspective that emphasizes looking at the whole individual and stresses concepts such as free will, self-efficacy, and self-actualization.
+13. **Industrial/organizational psychology**,&#x20;
+    1. Applies psychological principles and research methods to the workplace to improve productivity, health, and the quality of work life
+14. **Legal psychology**,&#x20;
+    1. Involves empirical, psychological research of the law, legal institutions, and people who come into contact with the law
+15. **Medical psychology**,&#x20;
+    1. Concerned with the diagnosis, treatment, and prevention of mental disorders, as well as research into the causes and consequences of these disorders
+16. **Military psychology**,
+    1. The research, design, and application of psychological theories and empirical data to understand, prevent, and mitigate the adverse effects of physical and emotional stress on military personnel
+17. **Psychology of music**,&#x20;
+    1. The study of how music affects and is processed by the individual, including the study of emotional response, perception, and cognitive processes related to music
+18. **Occupational health**,&#x20;
+    1. The field of public health that studies trends in illnesses and injuries in the worker population and proposes and implements strategies and regulations to prevent them
+19. **Political psychology**,&#x20;
+    1. An interdisciplinary academic field dedicated to understanding politics, politicians, and citizens from a psychological perspective
+20. **Psychometric**,&#x20;
+    1. Relating to the measurement of mental capabilities and processes - the science of measuring mental capacities and processes
+21. **Psychology of religion**,&#x20;
+    1. The application of psychological methods and interpretive frameworks to the diverse contents of religious traditions
+22. **School psychology**,&#x20;
+    1. A field that works within the educational system to help children with emotional, social, and academic issues
+23. **Sport psychology**
+    1. The study of how psychology influences sports, athletic performance, exercise, and physical activity
+24. **Traffic psychology**
+    1. The study of the behavior of road users and the psychological processes underlying that behavior
