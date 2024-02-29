@@ -155,10 +155,14 @@ Basic psychology includes:
    1. **Abnormal psychology** is a branch of psychology that studies unusual patterns of behavior, emotion and thought considered to be maladaptive and disruptive to an individual’s life.
    2. **Psychopathology**, which is similar to abnormal psychology, refers to **the study of mental illness**, mainly by psychologists and psychiatrists to reach a medical understanding of the disease process
 2. Behaviorism,&#x20;
+   1. According to behaviorism, all things that organisms do – including acting, thinking and feeling – can and should be regarded as behavior and psychological disorders are best treated by altering behavior patterns or modifying the environment.
 3. Biological psychology,&#x20;
+   1. Biological psychology, or bio-psychology, specializes in the mind–body connection, especially how the nervous system affects behavior (Britannica, 2020).
 4. Cognitive psychology,&#x20;
+   1. Cognitive psychology involves the study of cognition, including mental processes underlying perception, learning, problem-solving, reasoning, thinking, memory, attention, language and emotions.
 5. Comparative psychology,&#x20;
 6. Cross-cultural psychology,
+   1. Cross-cultural psychology refers to the scientific study of human behavior and mental processes under diverse cultural conditions
 7. Developmental psychology,&#x20;
 8. Evolutionary psychology,&#x20;
 9. Experimental psychology,
@@ -191,4 +195,83 @@ He believed that normal brain functioning, also known as mental health, depended
 2. Black bile
 3. Yellow bile
 4. Phlegm
+
+<details>
+
+<summary>Hippocrates helped identify </summary>
+
+His documented work led to information that is used to identify symptoms of **epilepsy**, **alcoholic delusion**, **stroke** and **paranoia** (Davidson et al., 2004, p. 7)
+
+</details>
+
+<details>
+
+<summary>Asylums, Universities and Historic figures </summary>
+
+Most hospitals were used for the treatment of leprosy (Davidson et al., 2004).&#x20;
+
+These facilities were converted to asylums around <mark style="color:green;">1547</mark> in England. Patients who were admitted to these types of hospitals were seen as a burden to society and locked away in desolate circumstances.&#x20;
+
+In <mark style="color:green;">1883</mark>, Emil Kraepelin (1856–1926) published a classification system that could be used to establish the biological nature of mental illness.&#x20;
+
+He discerned among mental disorders a tendency for certain groups of symptoms, or syndromes, to appear together, which could consequently be regarded as underlying physical causes of particular medical diseases.&#x20;
+
+He regarded each mental illness as distinct from others, having its own origins, symptoms, course and outcome.&#x20;
+
+The somatogenic explanation for mental illness dominated the field well into the 20th century. However, other researchers, especially in France and Austria, attributed mental disorders to psychological malfunction. Among these researchers was Franz Anton Mesmer (1734–1815), an Austrian physician practising in Vienna, who was one of the earliest practitioners of modern-day hypnosis. The word “mesmerise” is an older term for “hypnotise” (Davidson et al., 2004)
+
+</details>
+
+<details>
+
+<summary>Pavlov and his dogs</summary>
+
+Ivan Pavlov (1849–1936) was one of the pioneers of behaviorism.&#x20;
+
+Pavlov, a Russian physiologist, carried out studies on the function of heart nerves, primary digestive glands and conditioned responses, that is, classical conditioning.&#x20;
+
+His studies on primary digestive glands accidentally showed results of conditioned responses.&#x20;
+
+While doing research about the function of juices secreted by dogs when given food, he noticed that dogs began to salivate even when they were not waiting for food.&#x20;
+
+Dogs would salivate on seeing their keepers or even hearing their keepers’ footsteps. Pavlov found that dogs’ reflexes were stirred by other events happening at the same time as the real stimulus. Pavlov was interested in behavior displayed by organisms against stimulus.
+
+</details>
+
+In 1913, John Broadus Watson (1878–1958) wrote an article, “Psychology through the eyes of a behaviorist”, in which he stated that the science of psychology deals with observable behaviors and not phenomena such as conscience or thought.
+
+It was only after Watson’s article that behaviorism was delineated into three phases:
+
+1. The first phase, namely, Watson’s behaviorism lasted until 1930.
+2. The second phase, namely, new-behaviorism comprised studies by Edward Tolman, Edwin Guthrie, Clark Hull and BF Skinner and lasted until the 1960s. In this phase, behaviorists claimed that
+   1. The base of psychology was composed of studies about learning
+   2. Behaviors could be explained by principles of conditioning
+   3. psychology had to comply with the principle of functionalism and if a concept could not be defined functionally, it could not be studied either.
+
+The third phase, called new-new behaviorism or social behaviorism, included cognitive elements. This phase was pioneered by Bandura and Rotter. Canadian-American psychologist Albert Bandura (1925–2021) first named his theory social behaviorism and then renamed it social cognitive theory.
+
+There are two general kinds of behaviorists, namely:
+
+1. Radical (Watson and Skinner)
+   1. Radical behaviorists believe that psychology should study observable behaviors and environmental processes
+2. Methodological (Bandura and Rotter)
+   1. Methodological behaviorists believe that cognitive processes should be included when studying methods of behavior.
+
+<details>
+
+<summary>When Biological psychology came into being </summary>
+
+It came into being in 1913, following researcher Hideyo Noguchi’s discovery of the bacterium responsible for syphilis in the brain of a deceased patient. This discovery led to an investigation into the relationship between physiology and psychological health (Durfee, 2005).
+
+</details>
+
+<details>
+
+<summary>Cross-cultural psychology and Paul Eckmans research</summary>
+
+The discipline grew in the <mark style="color:green;">1960s</mark> in order to explain disparities in topics such as affect, cognition, conceptions of self, psychopathology, anxiety and depression.&#x20;
+
+Researchers such as Paul Eckman (born in 1934) examined facial expressions or emotions of participants from ten different cultures. The results showed that some facial expressions are universal.
+
+</details>
 
