@@ -302,6 +302,22 @@ Paul Ekman, a renowned psychologist, identified six basic emotions that he sugge
 
 These emotions are considered 'basic' because they are thought to be innate, not learned, and are experienced universally across cultures.
 
+<details>
+
+<summary>Rhyme to remember</summary>
+
+When you're **happy**, you're laughing with glee,\
+**Sadness** is like a fallen tree.\
+**Fear** is a haunted house at night,\
+**Disgust** is a smell that gives you a fright.
+
+**Anger** is a traffic jam, so tight,\
+**Surprise** is a gift that takes flight.\
+Six emotions, all in a row,\
+With this rhyme, you'll always know.
+
+</details>
+
 ***
 
 <details>
@@ -392,3 +408,41 @@ Hugo Münsterberg (1863–1916), a German-American psychologist, pioneered appli
     1. The study of how psychology influences sports, athletic performance, exercise, and physical activity
 24. **Traffic psychology**
     1. The study of the behavior of road users and the psychological processes underlying that behavior
+
+<mark style="color:red;">The Big 5 personality model is often used to describe individual differences in people:</mark>
+
+<figure><img src=".gitbook/assets/big-five-personality-1024x1024.jpeg" alt=""><figcaption><p>Big 5</p></figcaption></figure>
+
+The Big Five Personality Model, also known as the Five-Factor Model, is a widely accepted psychological theory that classifies human personality traits into five broad dimensions. These dimensions are:
+
+1. **Openness to Experience**: This trait features characteristics such as imagination, insight, and a broad range of interests, as well as intellectual curiosity, creativity and a preference for novelty and variety.
+2. **Conscientiousness**: This dimension includes traits like being organized, responsible, and reliable. Conscientious individuals show self-discipline, act dutifully, and aim for achievement.
+3. **Extroversion**: This trait is characterized by excitability, sociability, talkativeness, assertiveness, and high amounts of emotional expressiveness. Extroverts gain energy from interacting with others.
+4. **Agreeableness**: This personality dimension includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors. Agreeable people tend to be cooperative and considerate.
+5. **Neuroticism**: Individuals with high neuroticism tend to experience emotional instability, anxiety, moodiness, irritability, and sadness.
+
+Each person has every trait to some degree, but in different levels, which makes up the unique personality profile.
+
+<details>
+
+<summary>Rhyme to remember</summary>
+
+**Openness** is a curious delight,\
+Imagination taking flight.
+
+**Conscientiousness** is being keen,\
+Organized and always clean.
+
+**Extroversion** is a social dove,\
+Thrives on crowds and acts of love.
+
+**Agreeableness** is kind and true,\
+Always there to help you through.
+
+**Neuroticism**, a stormy sea,\
+Emotions sway like a tree.
+
+Five dimensions, each a guide,\
+In our personalities, they reside.
+
+</details>
