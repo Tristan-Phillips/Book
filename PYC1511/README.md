@@ -335,3 +335,36 @@ The first textbook on neuropsychology, <mark style="color:red;">Fundamentals of 
 Although this is a recent textbook, the history of the field can be traced back to the third dynasty of ancient Egypt. Imhotep, an Egyptian priest, first wrote about a scientific approach to medicine and disease and described the brain, trauma, abnormalities and remedies (Finger, 2000).&#x20;
 
 As the field of medicine developed its understanding of human anatomy and physiology, different theories developed to understand why the body functions the way it does
+
+***
+
+The basic psychological methods are used in applied psychology to solve issues of behavior and experience.
+
+Hugo Münsterberg (1863–1916), a German-American psychologist, pioneered applied psychology, extending his research and theories to industrial/organizational, legal, medical, clinical, educational and business contexts (Hergenhahn, 2005).
+
+Types of applied psychology include:
+
+1. Clinical psychology,&#x20;
+2. Community psychology,&#x20;
+3. Consumer psychology,&#x20;
+4. Counseling,
+5. Critical psychology,&#x20;
+6. Educational psychology,&#x20;
+7. Environmental psychology,&#x20;
+8. Ergonomics,&#x20;
+9. Food psychology,&#x20;
+10. Forensic psychology,&#x20;
+11. Health psychology,&#x20;
+12. Humanistic psychology,&#x20;
+13. Industrial/organizational psychology,&#x20;
+14. Legal psychology,&#x20;
+15. Medical psychology,&#x20;
+16. Military psychology,
+17. Psychology of music,&#x20;
+18. Occupational health,&#x20;
+19. Political psychology,&#x20;
+20. Psychometric,&#x20;
+21. Psychology of religion,&#x20;
+22. School psychology,&#x20;
+23. Sport psychology
+24. Traffic psychology
