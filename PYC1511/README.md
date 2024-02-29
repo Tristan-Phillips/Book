@@ -133,5 +133,62 @@ In a study of reasoning in specific non- language-based school examination tasks
 
 From this section, one gathers that the “how” and the “where” that inform the definition of psychology are crucial to how the study of psychology becomes an extension of oppressive political systems like colonization, apartheid and imperialism.
 
+***
 
+### Current Summary
+
+> PYC1511 is an introduction to psychology course that aims to equip students with knowledge and skills from an African perspective. Psychology originated in Europe but was introduced to Africa during colonialism by missionaries, visiting psychologists, and Africans educated abroad. However, Western psychology does not fully capture the African experience and worldview. The development of psychology differed in various African countries based on their colonial influences and local conditions. For example, the first mental hospital in Africa was opened in Cairo in 1880, while psychology was taught in philosophy departments in South Africa until 1917 when the first experimental psychology lab was established
+
+***
+
+#### The different areas in the development of psychology in Africa
+
+<mark style="color:red;">Psychology as a discipline is concerned with the mind and behavior</mark> (Holt et al., 2019)
+
+The mind, in this instance, refers to internal processes such as cognition or emotional states, whereas behavior refers to the outward manner in which these inward processes manifest.
+
+Basic, or general, psychology is the study of the different factors that shape an individual’s personality, learning, cognition and so forth.&#x20;
+
+Basic psychology includes:
+
+1. Abnormal psychology,&#x20;
+   1. **Abnormal psychology** is a branch of psychology that studies unusual patterns of behavior, emotion and thought considered to be maladaptive and disruptive to an individual’s life.
+   2. **Psychopathology**, which is similar to abnormal psychology, refers to **the study of mental illness**, mainly by psychologists and psychiatrists to reach a medical understanding of the disease process
+2. Behaviorism,&#x20;
+3. Biological psychology,&#x20;
+4. Cognitive psychology,&#x20;
+5. Comparative psychology,&#x20;
+6. Cross-cultural psychology,
+7. Developmental psychology,&#x20;
+8. Evolutionary psychology,&#x20;
+9. Experimental psychology,
+10. Neuropsychology,&#x20;
+11. Personality psychology,&#x20;
+12. Positive psychology,&#x20;
+13. Psycho-dynamic psychology,&#x20;
+14. Quantitative psychology,
+15. Social psychology.
+
+There are mainly three historical phases of development, namely:
+
+1. Demonology (i.e., caused by evil forces)
+   1. Demonology is the theory that **the devil** or another evil entity can reside inside a person and exert a mental influence over that person.
+   2. In the fifth century BC, **Hippocrates** _(460–377)_ rejected the Greek belief that the gods sent serious physical diseases and mental disturbances as punishment. He believed that illnesses were caused naturally.
+2. Somatogenesis (i.e., bodily causes)
+   1. States that something wrong with the soma, or the physical body, disturbs thoughts and actions.
+3. Psychogenesis (i.e., psychological or mental causes).
+
+Hippocrates classified mental disorders into:
+
+1. Mania
+2. Melancholia
+3. Phrenitis
+4. Brain fever
+
+He believed that normal brain functioning, also known as mental health, depended on a delicate balance of four main fluids in the body:
+
+1. Blood
+2. Black bile
+3. Yellow bile
+4. Phlegm
 
