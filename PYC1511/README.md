@@ -411,23 +411,31 @@ Hugo Münsterberg (1863–1916), a German-American psychologist, pioneered appli
 24. **Traffic psychology**
     1. The study of the behavior of road users and the psychological processes underlying that behavior
 
+### Big 5
+
 <mark style="color:red;">The Big 5 personality model is often used to describe individual differences in people:</mark>
 
 <figure><img src=".gitbook/assets/big-five-personality-1024x1024.jpeg" alt=""><figcaption><p>Big 5</p></figcaption></figure>
 
 The Big Five Personality Model, also known as the Five-Factor Model, is a widely accepted psychological theory that classifies human personality traits into five broad dimensions. These dimensions are:
 
+### OCEAN
+
 1. **Openness to Experience**: This trait features characteristics such as imagination, insight, and a broad range of interests, as well as intellectual curiosity, creativity and a preference for novelty and variety.
 2. **Conscientiousness**: This dimension includes traits like being organized, responsible, and reliable. Conscientious individuals show self-discipline, act dutifully, and aim for achievement.
 3. **Extroversion**: This trait is characterized by excitability, sociability, talkativeness, assertiveness, and high amounts of emotional expressiveness. Extroverts gain energy from interacting with others.
 4. **Agreeableness**: This personality dimension includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors. Agreeable people tend to be cooperative and considerate.
-5. **Neuroticism**: Individuals with high neuroticism tend to experience emotional instability, anxiety, moodiness, irritability, and sadness.
+5. **Neuroticism**: Individuals with high neuroticism tend to experience emotional instability, anxiety, moodiness, irritability, and sadness
 
 Each person has every trait to some degree, but in different levels, which makes up the unique personality profile.
 
+{% embed url="https://www.youtube.com/playlist?list=PLazm0qHeVHDh5I0-L8xLnrRDd9aGTInUm" %}
+Playlist of OCEAN
+{% endembed %}
+
 <details>
 
-<summary>Rhyme to remember</summary>
+<summary>Rhyme to remember OCEAN</summary>
 
 **Openness** is a curious delight,\
 Imagination taking flight.
