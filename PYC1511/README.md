@@ -458,3 +458,54 @@ In our personalities, they reside.
 </details>
 
 {% embed url="https://www.youtube.com/watch?v=sUrV6oZ3zsk" %}
+
+### Different theoretical perspectives in the development of psychology in Africa
+
+Psychologists in Africa continued to follow the principles and traditions of Western psychology. White psychologists in South Africa followed the script of Euro-American psychology in the sense that their theories and research studies informed their world view on racial classification and political duties.
+
+Bulhan (1985) identifies the following **three ways in which Eurocentric psychology continued to manifest itself:**
+
+1. **Assumptive solipsism**. Assumptive solipsism is the assumption that the Euro- American world view is the only or most significant world view
+2. **Methodological solipsism**. Methodological solipsism is the assumption that positivism or neo-positivism is the only or best way to conduct scientific research
+3. **Experiential solipsism**. Experiential solipsism is the assumption that middle-class white men’s experiences are the most valid
+
+#### The forms of assumptive solipsism (adapted from Bulhan, 1985)
+
+* **Control-prediction bias**
+  * This bias is articulated in methodology when the control of variables and prediction are seen as necessities for scientific inquiry (seen in the research section). The idea is to control nature and to predict events before they happen. This led to social control and the oppression of others, especially since psychology functioned within colonial discourse.
+* **Analytical-reductionist bias**
+  * This bias is founded on the assumption that complex human experience is understood better when it is reduced to elemental and simple units. This bias is the result of psychology identifying with natural science, in terms of which complex human behavior is compromised, to be quantified (reduction-ism of behavior) and compared with the behavior of animals such as rats in experiments.
+* **Trait-comparison bias**
+  * According to this bias, the aim of psychology is to assess traits or abilities and to compare them with one another. These traits are seen as stable and not influenced by socio-historical determinants. Abilities are usually quantified and measured through IQ tests.
+* **Stability-equilibrium bias**
+  * This bias serves to maintain and exercise social control in order to further perpetuate the status quo. Stability is desirable, and conflict and change are not. This bias appeals to those who are part of the status quo and who are not in favor of change.
+
+The word “**eugenics**” comes from the Greek word eugenes (eu, i.e., well and genos, i.e., born). The term refers to the study of methods of improving the human race through the bearing of healthy offspring (Garver & Garver, 1991). The eugenics movement became part of all the psychological developments in which racial classification was part of research processes and the testing of abnormal and expected behavior
+
+<details>
+
+<summary>Case Study: Black Insanity</summary>
+
+In 1955, John Colin D Carothers (1903–1989), a colonial psychiatrist in Kenya, claimed that the brains of Africans were underdeveloped compared to those of whites. Mental health services were greatly influenced by colonization, homeland policies and the legislation of the apartheid regime in South Africa (Sukeri, Betancourt & Emsley, 2014).&#x20;
+
+As early as 1875, asylums were opened in the Eastern Cape, South Africa, to accommodate individuals deemed “insane”. By then, racial segregation policies overlapped with the classification of patients according to social class, and “better- paying”, predominantly white patients were accommodated separately from violent, mostly black patients (Swartz, 1995). Furthermore, it was believed that in order for patients to recover, they needed to be separated by race and class for the recovery process, as well as to protect the feelings of white patients (Swartz, 1995; Sukeri, Betancourt & Emsley, 2014). Segregation did not only mean the separation of patients; it was also deemed degrading for white nurses to look after male patients who were perceived as violent and sexually aggressive. Racial differences influenced the diagnostic practices of practitioners, who maintained that black Africans and coloureds could not experience depression.&#x20;
+
+Facilities were resourced differently; administrators rationalised the provision of accommodation, which posed a fire hazard and had poor sanitation, arguing that natives preferred to maintain their indigenous style of living (Swartz, 1995). As part of occupational therapy, black male patients performed manual labor, including garden and laundry services for the white asylums. Separate health services were made available in terms of the Public Health Act 36 of 1919. A hierarchy was established, with males being fed more than women, and whites more than Indians, coloureds and blacks. Subsequently, black patients were dying in numbers more than white patients. Wards were overcrowded; there was rarely any contact between black patients and their families, and the hospital staff did not speak the patients’ language, which made communication and thus the road to recovery difficult, with nurses giving little attention to the black patients.&#x20;
+
+According to Vaughan (1991), asylum and psychiatric admissions indicate deculturation and the breaking down of barriers of difference and silence. “Individuals who had forgotten who they were and had ceased to conform to the notion of the African subject were the ones who often found themselves behind the walls of an asylum” (Vaughan, 1991, p. 125, as cited in Swartz, 2009). According to Dr Thomas Duncan Greenlees, a medical specialist at the asylum in Grahamstown, South Africa, civilisation and, thus, the mixing of the different cultures (i.e., civilisation) led to higher rates of insanity among black Africans. Black men and women who refused to confine themselves to the areas assigned to them were labelled insane; similarly, whites who disregarded their social status were labelled insane. As an example, Nontetha Nkwenkwe, a prophet, was confined for many years (1922–1935) in a psychiatric hospital for disrupting the regimes and disciplines of work on a white farm. The confinement of “insane” black patients was “less about curing them or alleviating their mental pain, but more about removing them as a source of disturbance to society” (Edgar & Sapire, 2000, p. 34). Female Africans (blacks) were rarely admitted to asylums, especially because most of them stayed far from cities or where they would be in close contact with whites. Therefore, admission into mental hospitals was generally restricted to those who were found “straying” or found in the “wrong place” (Jackson, 2005, p. 127). On the other hand, whites who were confined to psychiatric hospitals were the ones who had forgotten who they were and “gone native”. They failed to maintain civilized behavior and ended up as alcoholics or contracted sexually transmitted diseases (Swartz, 2009)
+
+</details>
+
+#### The emergence of African psychology (adapted from Nwoye, 2015b)
+
+(i) The portrayal of African people in a negative light by Europeans&#x20;
+
+(ii) The inability of Eurocentric psychological theories to explain the lives of African people pre- and post-colonization&#x20;
+
+(iii) The publishing of dehumanizing scholarly research that concludes that African people have below-average intellectual ability; this research was used as a justification for slavery and a low standard of living for black people&#x20;
+
+(iv) Psychological theory and research imitative of Western psychological theory, resulting in psychological theory that is irrelevant&#x20;
+
+(v) Eurocentric psychology operates in an atomistic, mechanistic and reductionist fashion, providing the framework within which mental life is regarded
+
+### The role of psychology in colonization and racial segregation
