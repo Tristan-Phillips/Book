@@ -10,7 +10,7 @@ description: Introduction to Psychology
 
 **This unit deals** with psychology as the study of human behavior and how, owing to the geographic location of its origins, the knowledge created from its conceptualization continues to have consequences for African people.
 
-#### The origin of psychology in Africa
+### The origin of psychology in Africa
 
 According to **Nsamenang** (2007), Euro-American psychology was introduced to Africa during the colonial period partly through Christian missionaries, visiting Western psychologists and Africans who were returning from universities abroad after being trained in conventional Western psychology.
 
@@ -30,7 +30,7 @@ Universities in Africa were established following Africa’s colonial contact wi
 Referenced in UNIT 1
 {% endembed %}
 
-#### Psychology and location
+### Psychology and location
 
 <mark style="color:red;">The word “</mark><mark style="color:red;">**psychology**</mark><mark style="color:red;">” is</mark> <mark style="color:red;"></mark><mark style="color:red;">**derived from Greek**</mark><mark style="color:red;">. The first part of the word comes from the Greek psychē, which refers to the</mark> <mark style="color:red;"></mark><mark style="color:red;">**soul**</mark><mark style="color:red;">; the second part comes from the Greek logos, which refers to</mark> <mark style="color:red;"></mark><mark style="color:red;">**studying a particular subject**</mark><mark style="color:red;">.</mark>
 
@@ -65,7 +65,7 @@ Why do they get to make this determination? \
 On whose behalf do they make decisions? \
 What are the consequences of developing a limited scope of studying psychology?
 
-#### Psychology in Egypt
+### Psychology in Egypt
 
 Three significant events occurred in the 19th century that influenced the rise of psychology in Egypt (Ahmed, 1992)
 
@@ -81,7 +81,7 @@ Sheikh Mohammed Sherif Saliem wrote and published books, including psychology bo
 
 </details>
 
-#### Psychology in South Africa
+### Psychology in South Africa
 
 In South Africa, it became perverted to fulfill a political purpose. As Marx (2013) notes, it was believed that the Bantu were not simply less developed than Europeans; rather, the belief was that their culture differed fundamentally from European culture and was incompatible with it.
 
@@ -127,7 +127,7 @@ Sathasivan Cooper, who frequently met with political activists, such as Steve Bi
 
 </details>
 
-#### Psychology in Zambia
+### Psychology in Zambia
 
 In a study of reasoning in specific non- language-based school examination tasks, it was discovered that poor performance in the tasks was related to socioeconomic background and thus to familiarity with and acquired skills in dealing with the information presented as pictures (Okonji, 1971). This meant that psychology and its methodological applications had to be redefined to fit the context.
 
@@ -141,7 +141,7 @@ From this section, one gathers that the “how” and the “where” that infor
 
 ***
 
-#### The different areas in the development of psychology in Africa
+### The different areas in the development of psychology in Africa
 
 <mark style="color:red;">Psychology as a discipline is concerned with the mind and behavior</mark> (Holt et al., 2019)
 
@@ -188,7 +188,7 @@ There are mainly **three historical phases of development, namely**:
    1. States that something wrong with the soma, or the physical body, disturbs thoughts and actions.
 3. **Psychogenesis** (i.e., psychological or mental causes).
 
-**Hippocrates classified mental disorders into**:
+### **Hippocrates classified mental disorders into**:
 
 1. Mania
 2. Melancholia
@@ -287,9 +287,11 @@ Researchers such as Paul Eckman (born in 1934) examined facial expressions or em
 
 <figure><img src=".gitbook/assets/281b5cefbc2f4a7fa60657525989cb64.jpg" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=DpNHiR1DIKc" %}
+
 ***
 
-#### Summary
+### Summary
 
 Paul Ekman, a renowned psychologist, identified six basic emotions that he suggested were universally experienced in all human cultures. **Here are Ekman's six basic emotions**:
 
@@ -336,7 +338,7 @@ A century later, German biologist Wilhelm Preyer (1841– 1897) documented the f
 
 **Evolutionary psychology**: Historically, Charles Darwin’s (1809–1882) theory of natural selection provides the basis for an understanding of evolution.
 
-#### Experimental psychology
+### Experimental psychology
 
 Wilhelm Wundt (1832–1920) founded the first laboratory for experimental psychology in Leipzig, Germany.&#x20;
 
@@ -344,7 +346,7 @@ Charles Bell (1774–1842), a British physiologist, did research on the nervous 
 
 This led to **Weber’s law**, which is considered the **first quantitative law in the history of psychology**.
 
-#### Neuropsychology
+### Neuropsychology
 
 The first textbook on neuropsychology, <mark style="color:red;">Fundamentals of human neuropsychology</mark>, was published by Kolb and Whishaw (Finger, 2000).&#x20;
 
@@ -358,7 +360,7 @@ The basic psychological methods are used in applied psychology to solve issues o
 
 Hugo Münsterberg (1863–1916), a German-American psychologist, pioneered applied psychology, extending his research and theories to industrial/organizational, legal, medical, clinical, educational and business contexts (Hergenhahn, 2005).
 
-**Types of applied psychology include**:
+### **Types of applied psychology include**:
 
 1. **Clinical psychology**,&#x20;
    1. A branch of psychology focused on the diagnosis and treatment of mental disorders and psychological distress.
@@ -446,3 +448,5 @@ Five dimensions, each a guide,\
 In our personalities, they reside.
 
 </details>
+
+{% embed url="https://www.youtube.com/watch?v=sUrV6oZ3zsk" %}
