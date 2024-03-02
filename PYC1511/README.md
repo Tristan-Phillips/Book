@@ -509,3 +509,29 @@ According to Vaughan (1991), asylum and psychiatric admissions indicate decultur
 (v) Eurocentric psychology operates in an atomistic, mechanistic and reductionist fashion, providing the framework within which mental life is regarded
 
 ### The role of psychology in colonization and racial segregation
+
+<mark style="color:red;">Psychology initially took shape, not so much as a discipline but as a mode of expertise, an array of knowledge claims about persons, individually and collectively, that would enable them to be better managed</mark> (Rose, 1988, p. 448)
+
+Psychology can be understood as a science that translates human subjectivity into a language used by governments for the regulation of schools, prisons, factories, labor markets and economies
+
+Psychological science then becomes a device for obtaining information on human capacities and mental processes that governments can use to make decisions about people and to manage them.&#x20;
+
+As such, the role of psychology is to provide governments with vocabulary, information and regulatory techniques, particularly in relation to the identification of the mentally ill, the management of disabled children and the management of racial classification
+
+#### Apartheid and Colonization
+
+**Apartheid** was a formalized system of racial segregation and oppression in South Africa. Powerful institutions, such as the courts, parliament and law enforcement, worked together to ensure that different races in South Africa lived separately and that white people enjoyed material, social and spiritual freedom.
+
+Colonization predates apartheid. **Colonization** is a system of oppression where a settler group invades a territory occupied by indigenous people and systematically exploits them economically, culturally, politically and psychologically. Colonialism is much more than just capturing land; it is the domination of indigenous people by foreign people (Bulhan, 2015)
+
+Rose (2008) argues that psychology is a discipline that developed to make itself useful to society.
+
+The following individuals are worth mentioning as role **players who shaped the history** of psychology in South Africa:
+
+* Ernst Gideon Malherbe (1896–1983) occupied various high-profile positions. His role in the poor white study and his views on psychology’s role in society made him a prominent figure.
+* Jan Christian Smuts (1870–1950) was a psychologist and a lawyer and served as the prime minister of South Africa from 1919 to 1924 and again from 1939 to 1948 (Nicholas, 2014). Smuts made significant contributions to the development of government policies, including the Mines and Works Act of 1911 and the Native Land Act of 1913.
+* Raymond William Wilcocks (1892–1967) joined Malherbe in large-scale psychometric testing of poor whites in the 1930s.
+* Hendrik Frensch Verwoerd (1901–1966) graduated from Stellenbosch University in 1936 with a PhD in Psychology, around the same time that Wilcocks was there and working on the poor white study. Given the close relationship that Wilcocks and Verwoerd seem to have had, it is not surprising that they had similar views regarding race relations in South Africa (Miller, 1993).
+
+### The role of psychological associations and research institutes in South Africa
+
