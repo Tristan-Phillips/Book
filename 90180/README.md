@@ -9,19 +9,19 @@ The purpose of this qualification is to enable prospective mental health profess
 
 ### Level 1
 
-* [ ] AFL1501 - Language Through an African Lens
-* [ ] PYC1511 - Introduction to Psychology
-* [ ] PYC1512 - Foundations of Sub-Disciplines of Psychology
+* [ ] [AFL1501](https://app.gitbook.com/s/ErqI4cEyLzcEHVkDa4Io/) - Language Through an African Lens
+* [ ] [PYC1511](https://app.gitbook.com/s/FjFEJm4jEFFVHSPVR2AM/) - Introduction to Psychology
+* [ ] [PYC1512](https://app.gitbook.com/s/HNRZ4YLMZlcgEI5LN9PL/) - Foundations of Sub-Disciplines of Psychology
 * [ ] [PYC1513](https://app.gitbook.com/s/xtSRAsb0EruZewLF3TJB/) - Introduction to Psychological Intervention Perspectives
 
 ***
 
-* [ ] CMY1501 - Introduction to Criminology: Crime, Offenders and Criminal Behavior
-* [ ] COM1501 - Fundamentals of Communication
-* [ ] DVA1501 - Introduction to Development Studies
-* [ ] PLS1501 - Introduction to Western Philosophy
-* [ ] COM1502 - Communication Contexts and Applications
-* [ ] DVA1502 - Development Problems and Institutions
+* [ ] [CMY1501](https://app.gitbook.com/s/BDSvHAHM6DKwbOBoFGme/) - Introduction to Criminology: Crime, Offenders and Criminal Behavior
+* [ ] [COM1501](https://app.gitbook.com/s/b6HVcVPfkc8wnbuoDjWq/) - Fundamentals of Communication
+* [ ] [DVA1501](https://app.gitbook.com/s/fTTxBbLH8KiCp7VmpM1b/) - Introduction to Development Studies
+* [ ] [PLS1501](https://app.gitbook.com/s/bjuxe1Szvt2kcvua8IWF/) - Introduction to Western Philosophy
+* [ ] [COM1502](https://app.gitbook.com/s/2dcA2SDTgzvCtBWIWp9S/) - Communication Contexts and Applications
+* [ ] [DVA1502](https://app.gitbook.com/s/jbvc4xtyuYSzfZR0aBSF/) - Development Problems and Institutions
 
 ### [Level 2](./#level-2)
 
