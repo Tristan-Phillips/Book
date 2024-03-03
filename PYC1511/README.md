@@ -535,3 +535,18 @@ The following individuals are worth mentioning as role **players who shaped the 
 
 ### The role of psychological associations and research institutes in South Africa
 
+The word “**eugenics**” comes from the Greek word eugenes (eu, i.e., “well” and genos, i.e., “born”).
+
+he term refers to the study of methods of improving the human race through the bearing of healthy offspring (Garver & Garver, 1991).
+
+The Army Education Scheme was established under the leadership of EG Malherbe to prepare soldiers for combat:
+
+**Summary of important developments in respect of research institutes and associations in South Africa**
+
+* A unit called the Aptitude Test Section was established in the South African Air Force.
+* Psychologists at the ATS were recruited from the then Transvaal University College, which split into the University of the Witwatersrand and the University of Pretoria
+* The National Institute for Personnel Research was established to prevent labor unrest and to improve production.
+
+### Summary
+
+This unit introduced you to the origin of psychology in Africa and how the European models of psychology have shaped psychology on the African continent. The unit also dealt with the different areas in the development of psychology in Africa, as well as the different theoretical perspectives in the development of psychology in Africa that emanated from different regions across the continent. The role of psychology in colonization and racial segregation was emphasized in a discussion on key figures who advocated the use of psychology to enforce racial oppression. The unit also examined how other key figures in the discipline of psychology resisted oppression through advocacy of a psychology that is context relevant, responsive, non- discriminatory and sensitive to issues of African people.
